@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SIR",
+            "request": "launch",
+            "mainClass": "SIR",
+            "classpath": [
+                "lib/xchart-3.8.0.jar",
+                "${workspaceFolder}/bin"
+            ]
+        }
+    ]
+}
